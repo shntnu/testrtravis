@@ -8,6 +8,6 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 LazyData: TRUE
 Imports:
-    MASS
+    car
 URL: https://github.com/shntnu/testrtravis
 BugReports: https://github.com/shntnu/testrtravis/issues
